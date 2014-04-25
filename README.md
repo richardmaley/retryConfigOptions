@@ -12,6 +12,7 @@ Run "runRetryConfigOptionsTest.bat".
 A time stamped report will be generated in the current directory.
 
 An example of the report follows:
+
 {
 "maxElapsedTime":"7 hours 0 minutes 0 seconds",
 "maxElapsedTimeMS":25200000,
