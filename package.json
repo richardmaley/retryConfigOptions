@@ -1,0 +1,26 @@
+{
+  "name": "retryConfigOptions",
+  "version": "1.0.0",
+  "description": "This is a configuration utility for the nodejs npm retry module. ",
+  "main": "runRetryConfigOptionsTest.bat",
+  "scripts": {
+    "test": "runRetryConfigOptionsTest.bat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richardmaley/retryConfigOptions"
+  },
+  "keywords": [
+    "retry",
+    "utility",
+    "nodejs",
+    "configuration",
+    "assistant"
+  ],
+  "author": "Dick Maley",
+  "license": "Copyright(c)2014,Advanced Delphi Systems",
+  "bugs": {
+    "url": "https://github.com/richardmaley/retryConfigOptions/issues"
+  },
+  "homepage": "https://github.com/richardmaley/retryConfigOptions"
+}
