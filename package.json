@@ -1,26 +1,36 @@
 {
-  "name": "retryConfigOptions",
-  "version": "1.0.0",
-  "description": "This is a configuration utility for the nodejs npm retry module. ",
-  "main": "runRetryConfigOptionsTest.bat",
-  "scripts": {
-    "test": "runRetryConfigOptionsTest.bat"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/richardmaley/retryConfigOptions"
-  },
-  "keywords": [
-    "retry",
-    "utility",
-    "nodejs",
-    "configuration",
-    "assistant"
-  ],
-  "author": "Dick Maley",
-  "license": "Copyright(c)2014,Advanced Delphi Systems",
-  "bugs": {
-    "url": "https://github.com/richardmaley/retryConfigOptions/issues"
-  },
-  "homepage": "https://github.com/richardmaley/retryConfigOptions"
+	"author" : "Dick Maley",
+	"bugs" : {
+		"url" : "https://github.com/richardmaley/retryConfigOptions/issues"
+	},
+	"dependencies" : {
+		"retry" : ">= 0.3.0",
+		"fs" : ">= 0.1.7"
+	},
+	"engines" : {
+		"node" : ">=0.10.267"
+	},
+	"description" : "This is a configuration utility for the nodejs npm retry module. ",
+	"homepage" : "https://github.com/richardmaley/retryConfigOptions",
+	"keywords" : [
+		"retry",
+		"utility",
+		"nodejs",
+		"configuration",
+		"assistant"
+	],
+	"license" : {
+		"type" : "MIT",
+		"url" : "https://github.com/richardmaley/retryConfigOptions/blob/master/LICENSE"
+	},
+	"main" : "runRetryConfigOptionsTest.bat",
+	"name" : "retryConfigOptions",
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/richardmaley/retryConfigOptions"
+	},
+	"scripts" : {
+		"test" : "runRetryConfigOptionsTest.bat"
+	},
+	"version" : "1.0.0"
 }
