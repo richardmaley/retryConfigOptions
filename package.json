@@ -24,7 +24,7 @@
 		"url" : "https://github.com/richardmaley/retryConfigOptions/blob/master/LICENSE"
 	},
 	"main" : "runRetryConfigOptionsTest.bat",
-	"name" : "retryConfigOptions",
+	"name" : "retryconfigoptions",
 	"repository" : {
 		"type" : "git",
 		"url" : "https://github.com/richardmaley/retryConfigOptions"
